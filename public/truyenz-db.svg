@@ -1,0 +1,9 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="700" rx="24" fill="#020617"/>
+  <rect x="40" y="40" width="1120" height="620" rx="20" fill="#0F172A" stroke="#164E63"/>
+  <rect x="90" y="120" width="420" height="480" rx="14" fill="#0B253A"/>
+  <rect x="540" y="120" width="570" height="220" rx="14" fill="#082F49"/>
+  <rect x="540" y="370" width="570" height="230" rx="14" fill="#155E75"/>
+  <text x="90" y="84" fill="#67E8F9" font-family="Arial" font-size="20">MySQL Profiling & Composite Indexing</text>
+  <text x="560" y="510" fill="#CFFAFE" font-family="Arial" font-size="34">-35% Latency</text>
+</svg>

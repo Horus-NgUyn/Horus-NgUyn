@@ -1,0 +1,10 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="700" rx="24" fill="#020617"/>
+  <rect x="40" y="40" width="1120" height="620" rx="20" fill="#0F172A" stroke="#164E63"/>
+  <rect x="80" y="90" width="300" height="28" rx="14" fill="#155E75"/>
+  <rect x="80" y="142" width="1040" height="180" rx="12" fill="#082F49"/>
+  <rect x="80" y="350" width="500" height="260" rx="12" fill="#0B253A"/>
+  <rect x="620" y="350" width="500" height="120" rx="12" fill="#0B253A"/>
+  <rect x="620" y="490" width="500" height="120" rx="12" fill="#0B253A"/>
+  <text x="80" y="70" fill="#67E8F9" font-family="Arial" font-size="20">TruyenZ - Home Service Dashboard</text>
+</svg>
